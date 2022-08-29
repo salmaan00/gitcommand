@@ -2,3 +2,5 @@ git init
 :initializing
 git status
 :list all untracked files
+git add -A
+:add all changes to staging area
