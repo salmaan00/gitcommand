@@ -1,2 +1,4 @@
 git init
 :initializing
+git status
+:list all untracked files
